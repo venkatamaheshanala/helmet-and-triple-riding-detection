@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.pt
+venv/
+env/
+.streamlit/
+*.log
+*.tmp
+*.mp4
+.DS_Store
