@@ -7,7 +7,7 @@ This project is a **real-time web-based object detection tool** built using [Str
 
 ## 📌 Live Demo  
 
-🚀 Try it here: [hel-triple-ride-detection Web App](https://hel-triple-ride-detection-1.onrender.com/)
+🚀 Try it here: [hel-triple-ride-detection Web App](https://hel-triple-ride-detection-1.onrender.com)
 
 ---
 
